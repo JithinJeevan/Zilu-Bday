@@ -1,0 +1,36 @@
+
+
+.navbar{
+  min-height: 70px;
+  background-color: #f60707ec;
+  width: 100%;
+
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.bgimage{
+  background: url(../../public/img8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover ;
+  background-position: center;
+  /* opacity: .5; */
+  height: 100%;
+  width: 100%;
+}
+
+.makeround{
+  border-radius: 50%;
+}
+.text{
+  color: blue;
+  font-weight: 800;
+  font-style: italic;
+  text-align: center;
+}
