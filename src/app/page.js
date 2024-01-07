@@ -14,27 +14,27 @@ export default function Home() {
   {
     setTimeout(() => {
       setPic1(true);
-    }, 1500);
+    }, 3000);
   }
   {
     setTimeout(() => {
       setPic2(true);
-    }, 2500);
+    }, 4000);
   }
   {
     setTimeout(() => {
       setPic3(true);
-    }, 3500);
+    }, 5000);
   }
   {
     setTimeout(() => {
       setText(true);
-    }, 4500);
+    }, 6500);
   }
   {
     setTimeout(() => {
       setCake(true);
-    },5500);
+    },7500);
   }
 
   return (
